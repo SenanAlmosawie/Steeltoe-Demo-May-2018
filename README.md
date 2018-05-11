@@ -1,6 +1,7 @@
-Steeltoe Cloud Foundy Reference Architecture Application
-The application utilizes:
+# Steeltoe Cloud Foundy Reference Architecture Application
 
+The application utilizes:
+ 
 -- Netflix Eureka Service Discovery
 
 -- Spring Cloud Config Server
