@@ -1,4 +1,4 @@
-##Steeltoe Cloud Foundy Reference Architecture Application
+Steeltoe Cloud Foundy Reference Architecture Application
 The application utilizes:
 
 -- Netflix Eureka Service Discovery
