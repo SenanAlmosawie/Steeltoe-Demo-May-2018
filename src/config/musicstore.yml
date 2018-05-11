@@ -1,0 +1,15 @@
+eureka:
+  client:
+    shouldFetchRegistry: false
+  instance:
+    port: 5000
+mysql:
+  client:
+    database: steeltoe
+    username: root
+    password: steeltoe
+postgres:
+  client:
+    database: steeltoe
+    username: steeltoe
+    password: steeltoe

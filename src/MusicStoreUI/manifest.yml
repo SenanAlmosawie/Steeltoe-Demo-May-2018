@@ -1,0 +1,11 @@
+---
+applications:
+- name: musicui-sa
+  memory: 1G
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - mStoreRegistry
+   - mStoreConfig
+   - mStoreAccountsDB
+   - mStoreHystrix

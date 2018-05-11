@@ -1,0 +1,1 @@
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/ShoppingCartService/obj/Release/net461/ubuntu.14.04-x64/GitInfo.cache

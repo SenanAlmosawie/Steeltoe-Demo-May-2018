@@ -1,0 +1,9 @@
+---
+applications:
+- name: orderprocessing-sa
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - mStoreRegistry
+   - mStoreConfig
+   - mStoreOrdersDB

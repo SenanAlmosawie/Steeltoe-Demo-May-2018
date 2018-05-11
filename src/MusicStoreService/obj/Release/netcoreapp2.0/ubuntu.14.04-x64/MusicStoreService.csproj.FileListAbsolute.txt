@@ -1,0 +1,15 @@
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/git.properties
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostpolicy.so
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostfxr.so
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.deps.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.runtimeconfig.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.runtimeconfig.dev.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.dll
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.pdb
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/GitInfo.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.csproj.CoreCompileInputs.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.AssemblyInfoInputs.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.AssemblyInfo.cs
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.dll
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreService/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreService.pdb

@@ -1,0 +1,9 @@
+---
+applications:
+- name: shoppingcart-sa
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - mStoreRegistry
+   - mStoreConfig
+   - mStoreCartDB

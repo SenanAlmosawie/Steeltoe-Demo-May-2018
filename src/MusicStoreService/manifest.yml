@@ -1,0 +1,10 @@
+---
+applications:
+- name: musicstore-sa
+  memory: 1G
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - mStoreRegistry
+   - mStoreConfig
+   - mStoreStoreDB

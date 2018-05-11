@@ -1,0 +1,12 @@
+---
+applications:
+- name: shoppingcart
+  memory: 512M
+  stack: windows2012R2
+  command: .\ShoppingCartService
+  env:
+    ASPNETCORE_ENVIRONMENT: Production
+  services:
+   - mStoreRegistry
+   - mStoreConfig
+   - mStoreCartDB

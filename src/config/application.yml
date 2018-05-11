@@ -1,0 +1,20 @@
+AppSettings:
+  SiteTitle: Music Store
+  CacheDbResults: true
+Logging: 
+  IncludeScopes: false
+  LogLevel: 
+    Default: Debug
+    System: Information
+    Microsoft: Information
+
+eureka:
+  client:
+    serviceUrl: http://localhost:8761/eureka/
+mysql:
+  client:
+    server: localhost
+    sslmode: none
+redis:
+  client:
+    host: localhost

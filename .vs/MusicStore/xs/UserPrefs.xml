@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9507C4C7-2EDE-4948-9D0A-DEFDCE8A569E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ShoppingCartService/Properties/launchSettings.json">
+    <Files>
+      <File FileName="src/MusicStoreService/manifest.yml" Line="1" Column="1" />
+      <File FileName="src/MusicStoreService/Controllers/StoreController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/StoreController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/ShoppingCartController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/ManageController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/CheckoutController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Controllers/AccountController.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Components/CartSummaryComponent.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Services/HystrixCommands/GetAlbum.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Services/BaseDiscoveryService.cs" Line="68" Column="39" />
+      <File FileName="src/MusicStoreUI/Services/IMusicStore.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Services/IOrderProcessing.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Services/IShoppingCart.cs" Line="1" Column="1" />
+      <File FileName="src/MusicStoreUI/Services/MusicStoreService.cs" Line="13" Column="64" />
+      <File FileName="src/MusicStoreUI/Services/OrderProcessingService.cs" Line="14" Column="52" />
+      <File FileName="src/MusicStoreUI/Services/ShoppingCartService.cs" Line="15" Column="3" />
+      <File FileName="src/OrderService/Controllers/OrderController.cs" Line="1" Column="1" />
+      <File FileName="src/OrderService/Models/Order.cs" Line="1" Column="1" />
+      <File FileName="src/OrderService/manifest.yml" Line="1" Column="1" />
+      <File FileName="src/ShoppingCartService/Controllers/ShoppingCartController.cs" Line="29" Column="21" />
+      <File FileName="src/ShoppingCartService/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MusicStoreService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/git.properties
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostpolicy.so
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/libhostfxr.so
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.deps.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.runtimeconfig.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.runtimeconfig.dev.json
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.dll
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/bin/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.pdb
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/GitInfo.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.csproj.CoreCompileInputs.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.AssemblyInfoInputs.cache
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.AssemblyInfo.cs
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.dll
+/Users/tsl109/code/MASTER/Samples/MusicStore/src/MusicStoreUI/obj/Release/netcoreapp2.0/ubuntu.14.04-x64/MusicStoreUI.pdb
